@@ -10,3 +10,8 @@ I am currently reading Dummit and Foote to learn abstract algebra, and using [Ca
 I plan to read Hatcher for Algebraic Topology, supplemented by Brendon's _Topology and Geometry_. I also hope to read the German Army Regulations on the Medium tank company from 1941. 
 # Contact Me
 You can email me at everestkas@gmail.com
+
+# Other Pages on this site
+[Other Profiles](https://kasrastanimaths.github.io/KasrastaniMaths/Information.html)
+[Front Page](https://kasrastanimaths.github.io/KasrastaniMaths/)
+
