@@ -15,3 +15,9 @@ I don't tweet much, but I will now tweet out when I'm putting out videos, and wh
 I am also by no means active on Math Stack Exchange, but I still go on there occasionally to see similar problems to my own and look for problems to answer.
 
 [Guass' Cat](https://math.stackexchange.com/users/818902/guass-cat)
+
+# Other Pages on this site
+[Other Profiles](https://kasrastanimaths.github.io/KasrastaniMaths/Information.html)(This Page)
+
+[Front Page](https://kasrastanimaths.github.io/KasrastaniMaths/)
+
