@@ -13,5 +13,6 @@ You can email me at everestkas@gmail.com
 
 # Other Pages on this site
 [Other Profiles](https://kasrastanimaths.github.io/KasrastaniMaths/Information.html)
-[Front Page](https://kasrastanimaths.github.io/KasrastaniMaths/)
+
+[Front Page](https://kasrastanimaths.github.io/KasrastaniMaths/)(This Page)
 
