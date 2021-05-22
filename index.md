@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KasrastaniMaths/KasrastaniMaths/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Introduction
+I am a 14 year old interested in pure mathematics. Specifically, I am interested in eventually studying Algebraic Topology and possibly K-Theory. Currently, I am studying Abstract Algebra and Category Theory. I live in Ohio, and am hoping to be able to major in pure mathematics one day. I am also very much interested in history, specifically the more modern era, from about 1910-1950. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KasrastaniMaths/KasrastaniMaths/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Readings
+## Current Reading
+I am currently reading Dummit and Foote to learn abstract algebra, and using [Category Theory for the Working Mathematican](https://link.springer.com/book/10.1007/978-1-4757-4721-8) by Mac Lane to learn category theory. I am also reading _A Stranger to Myself: The Inhumanities of War in Russia_ by Willy Peter Reese.
+## (Hopefully) Future Readings
+I plan to read Hatcher for Algebraic Topology, supplemented by Brendon's _Topology and Geometry_. I also hope to read the German Army Regulations on the Medium tank company from 1941. 
+# Contact Me
+You can email me at everestkas@gmail.com
